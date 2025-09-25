@@ -26,15 +26,14 @@ Ce serveur respecte les principales commandes du protocole FTP et permet la gest
 
 ## Compilation
 
-Pour compiler le projet, utilisez la commande suivante :
+Pour compiler le projet, utilisez la commande suivante :
 
 ```sh
 make
 ```
 L'exécutable généré sera nommé `myftp`.
 
-
-Utilisation
+## Utilisation
 Lancez le serveur avec :
 ```sh
 ./myftp <port> <path>
